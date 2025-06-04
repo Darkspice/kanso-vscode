@@ -1,5 +1,5 @@
 {
-	"name": "Kanso Ink",
+	"name": "Kanso Zen",
 	"type": "dark",
 	"semanticHighlighting": true,
 	"colors": {
@@ -75,7 +75,7 @@
 		"editorLineNumber.foreground": "#5C6066",
 		"editorMarkerNavigation.background": "#1C1E25",
 		"editorRuler.foreground": "#1C1E25",
-		"editorSuggestWidget.background": "#24262D",
+		"editorSuggestWidget.background": "#090E13",
 		"editorSuggestWidget.border": "#24262D",
 		"editorSuggestWidget.selectedBackground": "#2D4F67",
 		"editorWarning.foreground": "#FF9E3B",
@@ -117,8 +117,8 @@
 		"peekViewResult.background": "#1C1E25",
 		"scrollbar.shadow": "#1C1E25",
 		"scrollbarSlider.background": "#24262D88",
-    "scrollbarSlider.activeBackground": "#24262D88",
-    "scrollbarSlider.hoverBackground": "#24262D88",
+		"scrollbarSlider.activeBackground": "#24262D88",
+		"scrollbarSlider.hoverBackground": "#24262D88",
 		"settings.focusedRowBackground": "#1C1E25",
 		"settings.headerForeground": "#c5c9c7",
 		"sideBar.background": "#090E13",
